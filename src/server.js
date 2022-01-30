@@ -1,5 +1,6 @@
 const express = require('express')
 const path = require('path')
+const routes = require('./routes')
 
 const app = express()
 
@@ -17,11 +18,7 @@ app.use(express.urlencoded({ extended: true }))
 
 
 //rotas
-app.get('/', (req, res) => {
-  res.render('index', {
-    title: 'Título teste'
-  })
-})
+app.get('/', routes)
 
 //404 error: not found
 app.use((req, res) => { //middleware
