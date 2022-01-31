@@ -23,7 +23,7 @@ app.use(express.urlencoded({ extended: true }))
 
 
 //rotas
-app.get('/', routes)
+app.use('/', routes)
 
 //404 error: not found
 app.use((req, res) => { //middleware
