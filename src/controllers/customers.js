@@ -1,6 +1,12 @@
 const CustomersModel = require('../models/customers')
 const { crypto } = require('../helpers/password')
 
+function index(req, res) {
+  res.render('register', {
+    title: 'Cadastro de Clientes'
+  })
+}
+
 async function add(req, res) {
   const {
     name,
@@ -22,6 +28,15 @@ async function add(req, res) {
   res.send('cadastro realizado!')
 }
 
+function listUsers(req, res) {
+  res.render('listUsers', {
+    title: 'Lista de usuários',
+    users: [],
+  })
+}
+
 module.exports = {
-  add
+  index,
+  add,
+  listUsers
 }
