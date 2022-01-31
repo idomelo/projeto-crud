@@ -6,6 +6,7 @@ const db = require('./database')
 
 const app = express()
 
+
 //conexão com banco de dados
 db.connect()
 
