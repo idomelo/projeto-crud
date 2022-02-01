@@ -1,9 +1,8 @@
 <div align="center" id="top"> 
-  <!-- <img src="./.github/app.gif" alt="Projeto Crud" /> -->
+  <img src="./gravacao-tela.gif" alt="Projeto Crud" width="700"/>
 
   &#xa0;
 
-  <!-- <a href="https://projetocrud.netlify.com">Demo</a> -->
 </div>
 
 <h1 align="center">Projeto Crud</h1>
