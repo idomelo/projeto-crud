@@ -32,7 +32,7 @@
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#sparkles-funcionalidades">Funcionalidades</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-pré-requesitos">Pré requisitos</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-pré-requisitos">Pré requisitos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-começando">Começando</a> &#xa0; | &#xa0;
   <a href="https://github.com/idomelo" target="_blank">Autor</a>
 </p>
@@ -46,9 +46,9 @@ Um CRUD muito simples feito em nodejs para praticar o padrão MVC e backend com 
 ## :sparkles: Funcionalidades ##
 
 :heavy_check_mark: Cadastrar Usuário;\
-:heavy_check_mark: Criptografar senhas;
+:heavy_check_mark: Criptografar senhas;\
 :heavy_check_mark: Exibir lista de cadastrados;\
-:heavy_check_mark: Editar dados;
+:heavy_check_mark: Editar dados;\
 :heavy_check_mark: Deletar Usuário;
 
 ## :rocket: Tecnologias ##
