@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./gravacao-tela.gif" alt="Projeto Crud" width="700"/>
+  <img src="./gravacao-tela.gif" alt="Projeto Crud" width="900"/>
 
   &#xa0;
 
@@ -59,7 +59,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Ejs](https://ejs.co/)
 - [Bcrypt](https://www.npmjs.com/package/bcrypt)
 - [MongoDB](https://mongodb.com/)
-- [nodemon](https://www.npmjs.com/package/nodemon)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
 
 
 
