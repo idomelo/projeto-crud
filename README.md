@@ -40,7 +40,7 @@
 
 ## :dart: Sobre ##
 
-Um CRUD muito simples feito em nodejs para praticar o padrão MVC e backend com MongoDB
+Um projeto de CRUD simples em que foi feito um servidor com nodejs e express, permitindo a manipulação de dados no MongoDB e exibindo-os na tela do usuário. Foi utilizado o padrão MVC.
 
 ## :sparkles: Funcionalidades ##
 
