@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./gravacao-tela.gif" alt="Projeto Crud" width="700"/>
+  <img src="projeto_crud.gif" alt="Projeto Crud" width="400"/>
 
   &#xa0;
 
